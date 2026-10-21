@@ -64,3 +64,5 @@ $\color{#ffffff}{\text{To get this assist, you have to beat Iris (playlist 1A) a
 $\color{#ffffff}{\text{as any character then youll get kicked by its moderator with the message: "." . Rejoin again, pick any dificulty u want, }}$
 
 $\color{#ffffff}{\text{open the door and beat INTENTIONS to get Rae! }}$
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FQuadratz-bigfan%2FQuadratz-bigfan"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FQuadratz-bigfan%2FQuadratz-bigfan&label=ace%20notes&labelColor=%23f5f7fa&countColor=%238ea2bf" /></a>
