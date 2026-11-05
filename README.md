@@ -55,14 +55,6 @@
 
 <br><br>
 
-<img src="https://pbs.twimg.com/media/G_7CLS2boAEHE0F?format=webp&name=small"/>
-
-$\color{#8ea2bf}{\text{This assist name Rayvelline "Rae". Gauge:}}$ $\color{#a31d10}{\text{GLUIT}}$ 
-
-$\color{#8ea2bf}{\text{To get this assist, you have to beat Iris (playlist 1A) as Iris, Surreal (playlist 1B) as Lester and Ziera (lots of Ziera songs after playing those 2 songs)}}$
-
-$\color{#8ea2bf}{\text{as any character then youll get kicked by its moderator with the message: "." . Rejoin again, pick any dificulty u want, }}$
-
-$\color{#8ea2bf}{\text{open the door and beat INTENTIONS to get Rae! }}$
+now work in progress
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FQuadratz-bigfan%2FQuadratz-bigfan"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FQuadratz-bigfan%2FQuadratz-bigfan&label=ace%20notes&labelColor=%23f5f7fa&countColor=%238ea2bf" /></a>
