@@ -55,6 +55,6 @@
 
 <br><br>
 
-now work in progress
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=School+bell&pause=1000&color=FFFFFF&width=500&lines=Hi%E2%80%A6id+liek+to+tell+you+smth;This+reponsitory+is+still+wip;and+the+ata+link+is+now+for+read+only;Hope+yall+understand+and+wait+for+it+%3A.%28;Im+so+busy+with+my+exams+X+P%E2%80%A6)](https://git.io/typing-svg)
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FQuadratz-bigfan%2FQuadratz-bigfan"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FQuadratz-bigfan%2FQuadratz-bigfan&label=ace%20notes&labelColor=%23f5f7fa&countColor=%238ea2bf" /></a>
